@@ -1,0 +1,12 @@
+C:\Users\hotta\source\repos\Case\Case.Data\bin\Debug\netcoreapp3.1\Case.Data.deps.json
+C:\Users\hotta\source\repos\Case\Case.Data\bin\Debug\netcoreapp3.1\Case.Data.runtimeconfig.json
+C:\Users\hotta\source\repos\Case\Case.Data\bin\Debug\netcoreapp3.1\Case.Data.runtimeconfig.dev.json
+C:\Users\hotta\source\repos\Case\Case.Data\bin\Debug\netcoreapp3.1\Case.Data.dll
+C:\Users\hotta\source\repos\Case\Case.Data\bin\Debug\netcoreapp3.1\Case.Data.pdb
+C:\Users\hotta\source\repos\Case\Case.Data\obj\Debug\netcoreapp3.1\Case.Data.csprojAssemblyReference.cache
+C:\Users\hotta\source\repos\Case\Case.Data\obj\Debug\netcoreapp3.1\Case.Data.AssemblyInfoInputs.cache
+C:\Users\hotta\source\repos\Case\Case.Data\obj\Debug\netcoreapp3.1\Case.Data.AssemblyInfo.cs
+C:\Users\hotta\source\repos\Case\Case.Data\obj\Debug\netcoreapp3.1\Case.Data.csproj.CoreCompileInputs.cache
+C:\Users\hotta\source\repos\Case\Case.Data\obj\Debug\netcoreapp3.1\Case.Data.dll
+C:\Users\hotta\source\repos\Case\Case.Data\obj\Debug\netcoreapp3.1\Case.Data.pdb
+C:\Users\hotta\source\repos\Case\Case.Data\obj\Debug\netcoreapp3.1\Case.Data.genruntimeconfig.cache

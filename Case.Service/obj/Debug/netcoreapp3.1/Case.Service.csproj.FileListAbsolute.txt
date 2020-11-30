@@ -1,0 +1,14 @@
+C:\Users\hotta\source\repos\Case\Case.Service\bin\Debug\netcoreapp3.1\Case.Service.deps.json
+C:\Users\hotta\source\repos\Case\Case.Service\bin\Debug\netcoreapp3.1\Case.Service.dll
+C:\Users\hotta\source\repos\Case\Case.Service\bin\Debug\netcoreapp3.1\Case.Service.pdb
+C:\Users\hotta\source\repos\Case\Case.Service\bin\Debug\netcoreapp3.1\Case.Data.dll
+C:\Users\hotta\source\repos\Case\Case.Service\bin\Debug\netcoreapp3.1\Case.Repository.dll
+C:\Users\hotta\source\repos\Case\Case.Service\bin\Debug\netcoreapp3.1\Case.Data.pdb
+C:\Users\hotta\source\repos\Case\Case.Service\bin\Debug\netcoreapp3.1\Case.Repository.pdb
+C:\Users\hotta\source\repos\Case\Case.Service\obj\Debug\netcoreapp3.1\Case.Service.csprojAssemblyReference.cache
+C:\Users\hotta\source\repos\Case\Case.Service\obj\Debug\netcoreapp3.1\Case.Service.AssemblyInfoInputs.cache
+C:\Users\hotta\source\repos\Case\Case.Service\obj\Debug\netcoreapp3.1\Case.Service.AssemblyInfo.cs
+C:\Users\hotta\source\repos\Case\Case.Service\obj\Debug\netcoreapp3.1\Case.Service.csproj.CoreCompileInputs.cache
+C:\Users\hotta\source\repos\Case\Case.Service\obj\Debug\netcoreapp3.1\Case.Service.csproj.CopyComplete
+C:\Users\hotta\source\repos\Case\Case.Service\obj\Debug\netcoreapp3.1\Case.Service.dll
+C:\Users\hotta\source\repos\Case\Case.Service\obj\Debug\netcoreapp3.1\Case.Service.pdb

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Case.API</name>
+    </assembly>
+    <members>
+        <member name="M:Case.API.Controllers.BasketController.Add(System.Int32)">
+            <summary>
+            sepete eklemek istediğiniz ürünün id 'sini giriniz.
+            </summary>
+            <param name="productId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Case.API.Controllers.BasketController.GetSession4Redis">
+            <summary>
+            Tutulan session value'yu byte formatında doner.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Case.API.Controllers.ProductController.GetAll">
+            <summary>
+            Tum urunleri listeler.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Case.API.Controllers.ProductController.Create(Case.Service.Request.ProductCreateRequest)">
+            <summary>
+            Db ilk basta bos gelecektir.Lutfen bir urun ekleyiniz.
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
